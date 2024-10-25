@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! This responsive and interactive portfolio showcases my professional background, projects, and skills. Designed with a user-centric approach, it ensures a seamless and engaging experience across all devices.
 
-**Deployed Link:** [Khagendra Samal's Portfolio](https://khagendrasamal1.github.io/Portfolio/)
+**Live:** [Click here](https://khagendrasamal1.github.io/Portfolio/)
 
 ## 🌟 A User-Centric Design Experience
 
